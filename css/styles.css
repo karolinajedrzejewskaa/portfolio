@@ -189,12 +189,11 @@ p {
 .project {
   width: 100%;
   display: flex;
-  justify-content: center;
-  gap: 12rem;
+  gap: 1rem; /* Adjust the gap between columns as needed */
 }
 
 .img_projects_container {
-  position: relative;
+  flex: 1; /* Default flex-grow */
 }
 
 .img_projects {
@@ -235,12 +234,10 @@ p {
 }
 
 .text_section_projects {
-  height: 50%;
-  width: 300px;
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
+  padding: 1rem; /* Adjust this value as needed */
+  border: 2px solid #ccc; /* Example border */
 }
+
 
 .title_section_projects {
   display: flex;
