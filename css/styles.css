@@ -73,7 +73,7 @@ nav {
   height: 100vh;
 }
 .img_bg {
-  background: url(../img/computer.jpeg);
+  background: url("../img/computer.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
