@@ -190,7 +190,7 @@ p {
   width: 100%;
   display: flex;
   justify-content: center;
-  gap: 12rem;
+  gap: 10rem;
 }
 
 .img_projects_container {
