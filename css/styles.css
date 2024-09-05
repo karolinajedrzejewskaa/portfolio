@@ -112,7 +112,7 @@ nav {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 2rem;
+  gap: 1rem;
 }
 
 h2 {
@@ -148,7 +148,7 @@ p {
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  gap: 10rem;
+  gap: 1rem;
 }
 
 .bolded {
