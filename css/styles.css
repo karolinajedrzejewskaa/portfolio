@@ -73,13 +73,13 @@ nav {
   height: 100vh;
 }
 .img_bg {
-  background: url("../img/computer.png");
+  background: url(../img/computer.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 223px;
+  height: 400px;
   width: 100%;
-  max-width: 1400px;
+  max-width: 1024px;
 }
 
 .section_aboutme {
