@@ -236,7 +236,7 @@ p {
 
 .text_section_projects {
   height: 50%;
-  width: 420px;
+  width: 350px;
   display: flex;
   flex-direction: column;
   gap: 2rem;
